@@ -1,0 +1,40 @@
+Cyber Security
+
+Recoinassance
+Scanning
+Enumeration
+
+Gaining Access
+Maintaining Access
+Clearing Logs
+
+Hacking Frameworks
+Attack and Defence
+-----------------------------------------
+Access Control , Active Directory
+
+Vulneratbility , attack vectors, find out attacks presence , Prevention, removal of attack
+Threat. Evaluation, Types of attack, AttackEndpoints , Tools, 
+Attack , Privelege Esaclation, Countermeasures, Detection , Evasion
+
+Mittre , OSINT, 
+
+OWASP top 10
+MetaSploit
+Malware , Exploit
+
+SEDA - Event Driven Architecture
+NIST Cloud computing architecture
+Microservices
+
+malware - IN Memory , Process, IN storage
+
+PROXY , VPN ,DNS
+INTEGRITY , CONFIDENTIALITY
+HEAP , STACK
+
+Protocol defect, Denial of Service, SQL Injection
+Firewall , IDS, IPS
+Cryptanalysis
+
+Platform - Mobile, IOT, Wifi, Cloud, Server, Desktop , Client, Proxy
