@@ -40,3 +40,5 @@ Cryptanalysis
 Platform - Mobile, IOT, Wifi, Cloud, Server, Desktop , Client, Proxy
 
 Worms , Virus , Trojan , Malware , Ransomware
+
+Non Repudiation - sender cannot deny later to have sent the message, receiver cannot deny to have not recieved the message
