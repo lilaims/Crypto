@@ -14,7 +14,7 @@ Attack and Defence
 Access Control , Active Directory
 
 Vulneratbility , attack vectors, find out attacks presence , Prevention, removal of attack
-Threat. Evaluation, Types of attack, AttackEndpoints , Tools, 
+Threat. Evaluation, Types of attack, AttackEndpoints , Tools, Reason for attack,
 Attack , Privelege Esaclation, Countermeasures, Detection , Evasion
 
 Mittre , OSINT, 
@@ -38,3 +38,5 @@ Firewall , IDS, IPS
 Cryptanalysis
 
 Platform - Mobile, IOT, Wifi, Cloud, Server, Desktop , Client, Proxy
+
+Worms , Virus , Trojan , Malware , Ransomware
